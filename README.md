@@ -1,7 +1,7 @@
 CS19411 - PYTHON PROGRAMMING FOR MACHINE LEARNING RECORD VASANTH B 220801230
+VINMUGIL B 220801237
 
 LIST OF EXPERIMENTS:
-
 Fundamentals of NumPy, Pandas, and MatPlotLib
 Calculating values of random data using NumPy for mathematical formulas 1)Euclidean distance between two points 2) Dot Product of two Vectors 3)Solving a System of Linear Equations
 Write a simple Python code to generate random values and then compute their sigmoid and tanh (hyperbolic tangent) values using NumPy. Plot the values.
