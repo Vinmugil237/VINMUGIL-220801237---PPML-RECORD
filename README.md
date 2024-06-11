@@ -1,22 +1,14 @@
-## PPML Experiments
+CS19411 - PYTHON PROGRAMMING FOR MACHINE LEARNING RECORD VASANTH B 220801230
 
+LIST OF EXPERIMENTS:
 
-**1. Fundamentals with** *Numpy, Pandas, Matplotlib*
-
-**2. Mathematical Operations:** *Euclidean distance*, *Dot product*, *Linear equation*
-
-**3. Activation Functions:** *Sigmoid function*, *Tanh function*
-
-**4. Gradient Descent:** *gradient descent algorithm*
-
-**5. Vehicle Performance Analysis (using Pandas):**
-
-**6. Data Wrangling:**
-
-**7. Linear Regression:**
-
-**8. Logistic Regression:**
-
-**9. Linear Regression with Keras:**
-
-**10. Support Vector Regression (SVR):**
+Fundamentals of NumPy, Pandas, and MatPlotLib
+Calculating values of random data using NumPy for mathematical formulas 1)Euclidean distance between two points 2) Dot Product of two Vectors 3)Solving a System of Linear Equations
+Write a simple Python code to generate random values and then compute their sigmoid and tanh (hyperbolic tangent) values using NumPy. Plot the values.
+Write a program to find minimum of function f (x, y)=x^2+y^2+4 using gradient descent algorithm
+Vehicle Performance Analysis using pandas
+Data wrangling
+Linear regression fitting for the generated random data
+Logistic regression for the generated synthetic data
+Create a linear regression model using keras API
+Support Vector Machine model usage for classification and regression
